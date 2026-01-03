@@ -1,26 +1,51 @@
-# CORE VERTICAL — Defense & Security
+# CORE VERTICAL — Defense & Security Systems
 
-This repository defines the Defense & Security interpretation layer for CORE.
+This repository defines the Defense & Security vertical for CORE.
 
-It translates physics-engine outputs into anomaly detection, threat assessment, and situational awareness workflows.
+It is a **high-integrity, physics-based threat interpretation system**
+used for detection, classification, and analysis of physical phenomena.
 
-## Scope
-- Anomaly detection pipelines
-- Acoustic / EM / vibration threat interpretation
-- Controlled-access dashboards
-- Signal coherence and deviation analysis
-- Sensor fusion review tooling
+## Physics Stack (Authoritative)
 
-## Non-Scope
-- No weapons systems
-- No physics engines
-- No autonomous decision authority
-- No platform governance
+- ARES — acoustic propagation & detection
+- MAGNETAR — EM fields, radar, RF behavior
+- HYDRA — underwater acoustics & flow
+- ATMOS — air coupling, pressure waves
+- KINETIC — structural vibration & impact
+- SIGNAL — anomaly detection & coherence
+- RGSR — cross-domain fusion
 
-## Architecture Position
-Consumes truth data from CORE engines and RGSR.
-Acts strictly as an interpretation and presentation layer.
+## Real-World Phenomena Modeled
 
-## Governance
-All features are subject to CORE platform governance.
-This repo cannot override access, safety, or ethical constraints.
+- Submarines & underwater vehicles
+- Missiles & rockets
+- Aircraft & drones
+- Explosions & shockwaves
+- Underground tunnels & voids
+- EM / RF interference & spoofing
+
+## What This Vertical Is
+
+- A **physics-first detection system**
+- An **anomaly and pattern interpretation platform**
+- A **non-speculative analysis environment**
+
+## What This Vertical Is Not
+
+- Not a weapons system
+- Not command & control
+- Not autonomous targeting
+
+## Registries & Lenses
+
+- Threat signature registry
+- Sensor fusion profiles
+- Environmental presets
+- Risk classification schemas
+
+## Governance & Restrictions
+
+- High-risk vertical
+- Access is tightly gated
+- Outputs are interpretive, not directive
+- All activity is auditable under CORE
