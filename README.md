@@ -1,6 +1,26 @@
-# CORE VERTICAL — Defense & Security Lens
+# CORE VERTICAL — Defense & Security
 
-Domain interpretation + workflows for defense/security use cases.
-No physics definitions. No identity authority.
+This repository defines the Defense & Security interpretation layer for CORE.
 
-Governed by core-platform.
+It translates physics-engine outputs into anomaly detection, threat assessment, and situational awareness workflows.
+
+## Scope
+- Anomaly detection pipelines
+- Acoustic / EM / vibration threat interpretation
+- Controlled-access dashboards
+- Signal coherence and deviation analysis
+- Sensor fusion review tooling
+
+## Non-Scope
+- No weapons systems
+- No physics engines
+- No autonomous decision authority
+- No platform governance
+
+## Architecture Position
+Consumes truth data from CORE engines and RGSR.
+Acts strictly as an interpretation and presentation layer.
+
+## Governance
+All features are subject to CORE platform governance.
+This repo cannot override access, safety, or ethical constraints.
